@@ -1,0 +1,107 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="asdasdad.com" resolutions="1x" timestamp="1553103874943">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="msk.css" crc="3795175034" ref="msk"/>
+    <file name="syd.css" crc="3761459186" ref="syd"/>
+    <file name="index.css" crc="4269639459" ref="index"/>
+    <file name="video.css" crc="4095648762" ref="video"/>
+    <file name="kont.css" crc="4210379144" ref="kont"/>
+  </folder>
+  <folder name="fonts">
+    <file name="exo2.0-bold.woff" crc="3878977614"/>
+    <file name="exo2bold.eot" crc="197307758"/>
+    <file name="exo2.0-bold.svg" crc="3952995142"/>
+    <file name="oswald-bold.woff" crc="123568231"/>
+    <file name="oswald-bold.eot" crc="3844765328"/>
+    <file name="oswald-bold.svg" crc="442655857"/>
+    <file name="oswald-light.woff" crc="4275034179"/>
+    <file name="oswald-light.eot" crc="179195116"/>
+    <file name="oswald-light.svg" crc="233766853"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:msk:video:syd:kont"/>
+    <file name="museutils.js" crc="3803043152" ref="index:msk:video:syd:kont"/>
+    <file name="whatinput.js" crc="86476730" ref="index:msk:video:syd:kont"/>
+    <file name="museconfig.js" crc="380897831" ref="index:msk:video:syd:kont"/>
+    <file name="webpro.js" crc="242022427" ref="index:msk:video:syd:kont"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:msk:video:syd:kont"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:msk:video:syd:kont"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:msk:video:syd:kont"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:msk:video:syd:kont"/>
+    <file name="require.js" crc="4157109226" ref="index:msk:video:syd:kont"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:msk:video:syd:kont"/>
+    <file name="u172_states.png" crc="148083263" ref="index"/>
+    <file name="u172_states-r.png" crc="143954000" ref="index"/>
+    <file name="u187_states.png" crc="3774786124" ref="index"/>
+    <file name="u187_states-r.png" crc="4047997176" ref="index"/>
+    <file name="u195_states.png" crc="3900903294" ref="index"/>
+    <file name="u195_states-r.png" crc="51798044" ref="index"/>
+    <file name="u201_states.png" crc="4181457136" ref="index"/>
+    <file name="u201_states-r.png" crc="3889188835" ref="index"/>
+    <file name="u375-4-a.png" crc="362942680" ref="msk"/>
+    <file name="u385-4-a.png" crc="496507700" ref="msk"/>
+    <file name="maxresdefault (1)-crop-u493.jpg" crc="3937374144" seo="true" ref="msk">
+      <caption webpage="msk" alt=""/>
+    </file>
+    <file name="u893-4-a.png" crc="148083263" ref="msk"/>
+    <file name="u891_states.png" crc="3774786124" ref="msk"/>
+    <file name="u891_states-r.png" crc="4047997176" ref="msk"/>
+    <file name="u892_states.png" crc="3900903294" ref="msk"/>
+    <file name="u892_states-r.png" crc="51798044" ref="msk"/>
+    <file name="u894_states.png" crc="4181457136" ref="msk"/>
+    <file name="u894_states-r.png" crc="3889188835" ref="msk"/>
+    <file name="кровосток_гантеля_переиздание.jpg" crc="4224057656" seo="true" ref="msk">
+      <caption webpage="msk" alt=""/>
+    </file>
+    <file name="u430-4-a.png" crc="48124733" ref="msk"/>
+    <file name="u426-4-a.png" crc="386076324" ref="msk"/>
+    <file name="u470-4-a.png" crc="3960940508" ref="msk"/>
+    <file name="u465-4-a.png" crc="4143677255" ref="msk"/>
+    <file name="maxresdefault-crop-u483.jpg" crc="503575983" seo="true" ref="msk">
+      <caption webpage="msk" alt=""/>
+    </file>
+    <file name="вставленное изображение 802x100.jpg" crc="35774667" seo="true" ref="msk">
+      <caption webpage="msk" alt=""/>
+    </file>
+    <file name="u508-4-a.png" crc="488054685" ref="msk"/>
+    <file name="u503-4-a.png" crc="195882016" ref="msk"/>
+    <file name="вставленные-svg-43531x52.svg" crc="63040000" seo="true" ref="msk:video:syd">
+      <caption webpage="video" alt=""/>
+      <caption webpage="msk" alt=""/>
+      <caption webpage="syd" alt=""/>
+    </file>
+    <file name="вставленные svg 43531x52_poster_.png" crc="4189077307" ref="msk"/>
+    <file name="u954_states.png" crc="148083263" ref="video"/>
+    <file name="u954_states-r.png" crc="143954000" ref="video"/>
+    <file name="u953-4-a.png" crc="3774786124" ref="video"/>
+    <file name="u956_states.png" crc="3900903294" ref="video"/>
+    <file name="u956_states-r.png" crc="51798044" ref="video"/>
+    <file name="u957_states.png" crc="4181457136" ref="video"/>
+    <file name="u957_states-r.png" crc="3889188835" ref="video"/>
+    <file name="u1009_states.png" crc="148083263" ref="syd"/>
+    <file name="u1009_states-r.png" crc="143954000" ref="syd"/>
+    <file name="u1008_states.png" crc="3774786124" ref="syd"/>
+    <file name="u1008_states-r.png" crc="4047997176" ref="syd"/>
+    <file name="u1011-4-a.png" crc="3900903294" ref="syd"/>
+    <file name="u1012_states.png" crc="4181457136" ref="syd"/>
+    <file name="u1012_states-r.png" crc="3889188835" ref="syd"/>
+    <file name="u730.png" crc="302542143" ref="kont"/>
+    <file name="u730-r.png" crc="377200051" ref="kont"/>
+    <file name="u743_states.png" crc="4250869906" ref="kont"/>
+    <file name="u743_states-r.png" crc="181672022" ref="kont"/>
+    <file name="u1067_states.png" crc="148083263" ref="kont"/>
+    <file name="u1067_states-r.png" crc="143954000" ref="kont"/>
+    <file name="u1066_states.png" crc="3774786124" ref="kont"/>
+    <file name="u1066_states-r.png" crc="4047997176" ref="kont"/>
+    <file name="u1069_states.png" crc="3900903294" ref="kont"/>
+    <file name="u1069_states-r.png" crc="51798044" ref="kont"/>
+    <file name="u1070-4-a.png" crc="4181457136" ref="kont"/>
+  </folder>
+  <file name="index.html" crc="301674485" seo="true" mt="1553102800757" redirect="true"/>
+  <file name="msk.html" crc="3930483630" seo="true" mt="1553102800760" redirect="true"/>
+  <file name="video.html" crc="4004613359" seo="true" mt="1553103850192" redirect="true"/>
+  <file name="syd.html" crc="214356104" seo="true" mt="1553103561540" redirect="true"/>
+  <file name="kont.html" crc="4047607195" seo="true" mt="1553102800761" redirect="true"/>
+</manifest>
